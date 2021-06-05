@@ -1,4 +1,4 @@
-module rsc.io/rf
+module github.com/julieqiu/rf
 
 go 1.16
 
